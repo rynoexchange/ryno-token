@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "migrate": "truffle migrate"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "truffle": "^5.4.9",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
